@@ -1,2 +1,2 @@
 # semana-agilizei
-read me 
+read me .
